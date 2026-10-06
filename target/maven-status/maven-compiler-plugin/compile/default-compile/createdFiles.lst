@@ -1,0 +1,8 @@
+com/udec/evaluacion/service/PlataformaService.class
+com/udec/evaluacion/model/Usuario.class
+com/udec/evaluacion/model/RespuestaEnvio.class
+com/udec/evaluacion/model/Rol.class
+com/udec/evaluacion/model/Pregunta.class
+com/udec/evaluacion/controller/AppController.class
+com/udec/evaluacion/EvaluacionApplication.class
+com/udec/evaluacion/model/Evaluacion.class

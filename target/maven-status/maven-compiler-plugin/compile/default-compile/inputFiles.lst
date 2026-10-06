@@ -1,0 +1,8 @@
+/workspaces/evaluacion-docente-udec/src/main/java/com/udec/evaluacion/model/Usuario.java
+/workspaces/evaluacion-docente-udec/src/main/java/com/udec/evaluacion/service/PlataformaService.java
+/workspaces/evaluacion-docente-udec/src/main/java/com/udec/evaluacion/EvaluacionApplication.java
+/workspaces/evaluacion-docente-udec/src/main/java/com/udec/evaluacion/model/Evaluacion.java
+/workspaces/evaluacion-docente-udec/src/main/java/com/udec/evaluacion/model/Rol.java
+/workspaces/evaluacion-docente-udec/src/main/java/com/udec/evaluacion/model/Pregunta.java
+/workspaces/evaluacion-docente-udec/src/main/java/com/udec/evaluacion/model/RespuestaEnvio.java
+/workspaces/evaluacion-docente-udec/src/main/java/com/udec/evaluacion/controller/AppController.java
